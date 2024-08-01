@@ -1,2 +1,0 @@
-[01.08.2024 14:19:29]: New request to http://localhost:5001/
-[01.08.2024 14:19:29]: New request to http://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map
